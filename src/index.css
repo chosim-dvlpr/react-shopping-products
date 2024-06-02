@@ -1,0 +1,19 @@
+:root {
+  --black-color-1: #000000;
+  --black-color-1-10: rgba(0, 0, 0, 0.1);
+  --black-color-2: #0a0d13;
+
+  --white-color-1: #ffffff;
+
+  --gray-color-1: #eaeaea;
+
+  --error-color: #FFC9C9;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: Noto Sans;
+  font-weight: 500;
+  color: var(--black-color-1);
+  min-width: 30rem;
+}
